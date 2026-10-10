@@ -1,4 +1,4 @@
-# repo for analysis (WSDM Cup, Nov 2024 to Feb 2025)
+# Repo for analysis (WSDM Cup, Nov 2024 to Feb 2025)
 
 Archive of our team's final submission to the [WSDM Cup: Multilingual Chatbot Arena](https://www.kaggle.com/competitions/wsdm-cup-multilingual-chatbot-arena) on Kaggle. The competition ran from 18 Nov 2024 to 3 Feb 2025. The task: given a user prompt and two chatbot responses, predict which response the human voter preferred, across many languages. Metric is accuracy.
 
@@ -61,3 +61,7 @@ Both the package and the checkpoints come from a publicly shared solution to the
 ## License
 
 MIT for the code in `src/` and `notebooks/`. Third-party code and weights listed under Dependencies keep their own licenses.
+
+## Credits
+
+Code written By Shreshth Mehrotra, Harshavardhan Etcherla, Arman Gupta, Mudita Toshniwal
