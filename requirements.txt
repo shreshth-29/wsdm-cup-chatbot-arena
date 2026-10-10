@@ -1,0 +1,14 @@
+# Versions reflect the Kaggle Python 3.10 image used during the competition (early 2025).
+torch>=2.1
+transformers>=4.42
+numpy
+pandas
+pyarrow
+tqdm
+scikit-learn
+xgboost>=2.0
+lightgbm
+catboost
+# For the Llama-3 judge only. Kaggle used prebuilt wheels from the lmsys-packages dataset:
+# triton==2.2.0 and xformers (0.0.24 dev build).
+# xformers

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.npy
+*.parquet
+submission.csv
+human_pref/
+!src/human_pref/
+checkpoints/
+.DS_Store
